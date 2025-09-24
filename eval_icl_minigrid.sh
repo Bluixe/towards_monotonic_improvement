@@ -1,0 +1,1 @@
+python eval_icl_minigrid.py --env MiniGrid-SimpleCrossingS9N3-v0 --eval_env MiniGrid-FourRooms-v0 --algorithm ad --num_envs 20 --num_steps 8000 --H 400 --embd 256 --dim 10 --layer 4 --head 4 --predict_value --multi_env

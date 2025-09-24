@@ -1,0 +1,1 @@
+python eval_icl_darkroom.py --env Darkroom --algorithm ad --num_envs 20 --num_steps 8000 --H 400 --embd 256 --dim 10 --layer 4 --head 4 --context_value

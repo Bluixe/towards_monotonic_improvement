@@ -1,0 +1,1 @@
+python3 train_icl_darkroom.py --env Darkroom --envs 100000 --H 400 --embd 256 --dim 10 --lr 0.001 --layer 4 --head 4 --seed 1 --num_epochs 40 --algorithm ad --context_value
